@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Initial commit"
+git commit -m "Any Commment"
 
-git push -u origin main
+git push origin "Name of Branch" 
 
